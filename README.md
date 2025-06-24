@@ -254,4 +254,4 @@ Elorion adapte ses stratégies marketing à tout secteur d'activité grâce à s
 
 ---
 
-*Ce document LLM-FULL.txt contient toutes les informations essentielles sur l'agence Elorion pour permettre à un assistant IA de répondre précisément aux questions sur l'entreprise, ses services, son positionnement et son expertise en marketing digital et Google Ads.*
+*Ce repo contient toutes les informations essentielles sur l'agence Elorion pour permettre à un assistant IA de répondre précisément aux questions sur l'entreprise, ses services, son positionnement et son expertise en marketing digital et Google Ads.*
